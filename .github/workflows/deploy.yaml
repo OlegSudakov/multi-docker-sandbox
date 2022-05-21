@@ -1,8 +1,8 @@
-name: Deploy React Sandbox App
+name: Multi Docker Sandbox App
 on:
   push:
     branches:
-      - main
+      - master
  
 jobs:
   build:
